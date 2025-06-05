@@ -1,0 +1,1 @@
+DONE SENTİMENT ANALYSIS ML and DL algorithms with verious embedding methods such as TF-IDF,BOW, WORD2VEC, GLOVE, FASTTEXT BY USING DİFFERENT DATASETS
